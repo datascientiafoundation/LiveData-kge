@@ -16,10 +16,16 @@ schema: default
 
 # Nav bar
 navigation:
+  - title: About Us
+    url: http://datascientia.disi.unitn.it/
   - title: Datasets
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: Services
+    url: /#services
+  - title: FAQ
+    url: /faq/
 
 # Collections
 collections:
