@@ -16,7 +16,7 @@ resources:
     format: html
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
-  - Education
+  - Digital University
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it
 author: Alessandro Raho <br> Camilla Pelagalli
