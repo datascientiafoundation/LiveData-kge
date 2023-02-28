@@ -4,7 +4,10 @@
   {
     "title": {{ dataset.title | jsonify }},
     "maintainer": {{ dataset.maintainer | jsonify }},
+    "author": {{ dataset.author | jsonify }},
+    "author_email": {{ dataset.author_email | jsonify }},
     "tags": {{ dataset.tags | jsonify }},
+    "pub_date": {{ dataset.pub_date | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.notes != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
