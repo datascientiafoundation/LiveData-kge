@@ -9,7 +9,7 @@ resources:
     format: html
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
-  - Education
+  - Digital University
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it
 author: Martina Arturi <br> Leonardo Malcotti
