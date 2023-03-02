@@ -2,7 +2,7 @@ title: KGE Catalog
 greeting: KGE Catalog
 description: This data catalog provides the access to all the projects developed during the edition 2022/2023 of the Knowledge Graph Engineering academic course (University of Trento, DISI department).  
 baseurl: /LiveData-KGE
-logo: /img/DS-base-kge.png
+logo: /img/LD-kge.png
 
 # Site theme
 jkan_theme: Default
