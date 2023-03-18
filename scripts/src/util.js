@@ -76,3 +76,4 @@ export function updateYamlString (yamlString, updateObject) {
   }
   return yamlString
 }
+

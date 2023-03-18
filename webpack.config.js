@@ -1,4 +1,5 @@
 /* global __dirname */
+
 module.exports = {
   entry: ['babel-polyfill', __dirname + '/scripts/src/index.js'],
   output: {
@@ -10,6 +11,7 @@ module.exports = {
       { test: /\.js$/, exclude: /node_modules/, loader: 'babel-loader' }
     ]
   },
+  target: 'web',
   externals: {
     jquery: 'jQuery'
   }

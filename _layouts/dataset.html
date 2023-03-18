@@ -69,9 +69,20 @@ layout: default
                                 <a href="" id="reslink" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
 
                                 <script>
+                                    document.getElementById("reslink").setAttribute ("href", '{{ resource.url }}');
+                                    var test = document.getElementById("reslink").getAttribute ("href")
+                                    document.getElementById("reslink").setAttribute ("href", '');
+                                    console.log("tst:"+test)
+                                    var urlstring = test
+                                    var encodedString = window.btoa(urlstring);
+                                    //var decodedString = window.atob( encodedString );
+                                
+                                    console.log("res url:"+urlstring)
+                                    console.log("res url enc:"+encodedString)
+
                                     const resource = window.location.pathname;
                                     console.log(resource);
-                                    document.getElementById("reslink").setAttribute ("href", 'http://localhost:3000/' + '?res=' + resource);
+                                    document.getElementById("reslink").setAttribute ("href", 'http://localhost:3000/' + '?res=' + resource + '&enc=' + encodedString);
                                 </script> 
 
                                 <script>
