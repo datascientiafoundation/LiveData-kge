@@ -5,7 +5,7 @@ organization: KnowDive
 notes: auth layer test
 resources:
   - name: test
-    url: 'https://github.com/simone-bocca/CatalogAuthServer/raw/main/test/Doctor.xls'
+    url: 'https://github.com/simone-bocca/CatalogAuthServer/raw/main/test/Doctor.csv'
     format: csv
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
