@@ -7,6 +7,10 @@ resources:
   - name: test
     url: 'https://github.com/simone-bocca/CatalogAuthServer/raw/main/test/Doctor.csv'
     format: csv
+  - name: Shapeness
+    url: >-
+      https://github.com/simone-bocca/CatalogAuthServer/raw/main/test/Shapeness.rdf
+    format: rdf
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
   - Health
