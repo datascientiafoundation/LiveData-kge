@@ -58,39 +58,12 @@ layout: default
                         <ul>
                             {% for resource in page.resources %}
                             <li data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
-
-                                <!-- 
-                                    Note DS auth layer:
-                                    Fai la richiesta alla pagina di login tutte le volte che clicchi sul link
-                                    cosi registri gli accessi alla risorsa in ogni caso.
-                                    quando ritorna la request all auth server, in base alla response metti il link alla risorsa vera oppure di nuovo ad auth server se il login non è andatoi a buon fine.
-                                -->
-
-                                <a href="" id="reslink" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
+                                <a href="" id="{{ resource.name }}" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
 
                                 <script>
-                                    document.getElementById("reslink").setAttribute ("href", '{{ resource.url }}');
-                                    var test = document.getElementById("reslink").getAttribute ("href")
-                                    document.getElementById("reslink").setAttribute ("href", '');
-                                    console.log("tst:"+test)
-                                    var urlstring = test
-                                    var encodedString = window.btoa(urlstring);
-                                    //var decodedString = window.atob( encodedString );
-                                
-                                    console.log("res url:"+urlstring)
-                                    console.log("res url enc:"+encodedString)
-
-                                    const resource = window.location.pathname;
-                                    console.log(resource);
-                                    document.getElementById("reslink").setAttribute ("href", 'http://localhost:3000/' + '?res=' + resource + '&enc=' + encodedString);
-                                </script> 
-
-                                <script>
-                                    const queryString = window.location.search;
-                                    console.log(queryString);
-                                    if (queryString.includes("registered"))
-                                        document.getElementById("reslink").setAttribute ("href", '{{ resource.url }}');
-                                </script>                                
+                                    var resource = window.location.pathname;
+                                    document.getElementById("{{ resource.name }}").setAttribute ("href", "http://localhost:3000/?res=" + resource + "&enc={{ resource.url }}");
+                                </script>                               
 
                                 {% if resource.format %}<span class="badge badge-secondary" property='dcat:mediaType'>{{ resource.format}}</span>{%
                                 endif %}
