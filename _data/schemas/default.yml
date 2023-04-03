@@ -39,6 +39,12 @@ dataset_fields:
   - field_name: pub_date
     label: Publication Date
     datajson: pub_date
+  - field_name: latitude_map
+    label: latitude
+    datajson: latitude_map
+  - field_name: longitude_map
+    label: longitude
+    datajson: longitude_map
 
 resource_fields:
   - field_name: name

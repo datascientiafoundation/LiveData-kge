@@ -19,4 +19,6 @@ author: Valentino Frasnelli <br> Lorenzo Bocchi
 author_email: valentino.frasnelli@studenti.unitn.it <br> lorenzo.bocchi@studenti.unitn.it
 tags: 'kge,DU,unitn'
 pub_date: 02/11/2022
+latitude_map: 46.07
+longitude_map: 11.13
 ---
