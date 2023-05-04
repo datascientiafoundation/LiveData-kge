@@ -64,10 +64,12 @@ layout: default
                                     var resource = window.location.pathname;
 
                                     // ------ For LL - YAMINI
-                                    var url = "resources/6415fdee-7dc2-419c-8d37-13ce82075d38/output-kmc.zip"
-                                    document.getElementById("{{ resource.name }}").setAttribute ("href", "http://localhost:3000/?res=" + resource + "&enc=" + url);
+                                    // var url = "resources/6415fdee-7dc2-419c-8d37-13ce82075d38/output-kmc.zip"
+                                    // document.getElementById("{{ resource.name }}").setAttribute ("href", "http://localhost:3000/?res=" + resource + "&enc=" + url);
                                     // ------ 
 
+
+                                    document.getElementById("{{ resource.name }}").setAttribute ("href", "{{ resource.url }}");
 
                                     //document.getElementById("{{ resource.name }}").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=" + resource + "&enc=" + url);
                                     
