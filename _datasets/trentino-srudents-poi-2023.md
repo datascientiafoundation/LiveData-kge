@@ -19,4 +19,6 @@ author: Munkhdelger Bayanjargal <br> Nina Verbeeke
 author_email: m.bayanjargal@studenti.unitn.it <br> nina.verbeeke@studenti.unitn.it
 tags: 'kge,poi,trentino'
 pub_date: 14/03/2024
+latitude_map: 46.07
+longitude_map: 11.13
 ---
