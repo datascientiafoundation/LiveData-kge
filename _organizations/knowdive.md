@@ -1,5 +1,5 @@
 ---
 title: KnowDive
 description: 'UniTn DISI dep computer science research group '
-logo: './../img/kdlogo.png'
+logo: 'https://github.com/datascientiafoundation/LiveData-KGE/img/kdlogo.png'
 ---
