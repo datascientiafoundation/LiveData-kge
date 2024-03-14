@@ -12,7 +12,7 @@ resources:
     format: html
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
-  -   Transportation
+  -   Environment
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it
 author: Veronika Deketová <br> Hasan Aldhahi
