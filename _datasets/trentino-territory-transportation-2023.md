@@ -19,4 +19,6 @@ author: Eugenio Ferrari <br> Rubens Onzi
 author_email: eugenio.ferrari-1@studenti.unitn.it <br> rubens.rissionzi@studenti.unitn.it
 tags: 'kge,transportation,trentino'
 pub_date: 14/03/2024
+latitude_map: 46.07
+longitude_map: 11.13
 ---
