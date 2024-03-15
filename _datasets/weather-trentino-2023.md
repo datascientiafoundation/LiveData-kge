@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Weather and climate change in Trentino
+title: 2023 - Weather and climate change in Trentino
 organization: KnowDive
 notes: >-
   This project was developed by Veronika Deketová and Hasan Aldhahi for the

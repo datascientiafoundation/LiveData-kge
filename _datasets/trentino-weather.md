@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Weather
+title: 2022 - Trentino Weather
 organization: KnowDive
 notes: >-
   In this project, we used weather data from Trento province to build a

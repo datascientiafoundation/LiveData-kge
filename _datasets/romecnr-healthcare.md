@@ -1,6 +1,6 @@
 ---
 schema: default
-title: RomeCNR Healthcare
+title: 2022 - RomeCNR Healthcare
 organization: KnowDive
 notes: >-
   This project deals with patients data from Rome CNR and synthetic data from

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Healthcare
+title: 2022 - Trentino Healthcare
 organization: KnowDive
 notes: >-
   A service that lays out the complete healthcare facilities available in the

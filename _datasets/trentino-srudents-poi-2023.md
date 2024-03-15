@@ -1,6 +1,6 @@
 ---
 schema: default
-title: DISI Student Lives & Points of interest in Trentino
+title: 2023 - DISI Student Lives & Points of interest in Trentino
 organization: KnowDive
 notes: >-
   This project was developed by Munkhdelger Bayanjargal and Nina Verbeeke for the

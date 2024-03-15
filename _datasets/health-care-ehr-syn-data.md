@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Health Care-EHR-Syn Data
+title: 2022 - Health Care-EHR-Syn Data
 organization: KnowDive
 notes: >-
   There is an increasing interest across European Union (EU) institutions,

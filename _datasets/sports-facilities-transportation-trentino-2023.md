@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Sports Facilities & Transportation in Trentino
+title: 2023 - Sports Facilities & Transportation in Trentino
 organization: KnowDive
 notes: >-
   This project was developed by Patrick Nanys for the

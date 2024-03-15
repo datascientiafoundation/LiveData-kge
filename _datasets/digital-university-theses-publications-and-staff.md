@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Digital University, Theses, Publications, and Staff'
+title: '2022 - Digital University, Theses, Publications, and Staff'
 organization: KnowDive
 notes: >-
   A service which help the users to query and know about the different areas of

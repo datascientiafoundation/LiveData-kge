@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Museum Project
+title: 2022 - Museum Project
 organization: KnowDive
 notes: "This project considers a museum as the region in which heterogeneous data about visitors’ profiles and visiting behaviors should be integrated by building a Knowledge Graph (KG).\r\n\r\nThe related data provide the information about visitors’ profiles and visiting behaviors in a museum, e.g., visitors, parts of the museum, dwell time in different parts of museum, and other visiting behavior information in the museum.\r\n\r\nThe project aims to create a KG representing museum visitors’ profiles and visiting behaviors. This objective will be achieved through a data integration process that will generate a visiting Knowledge Graph (KG) integrating visitors’ data in a museum from various data sources."
 resources:

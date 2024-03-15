@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Digital University COS
+title: 2022 - Digital University COS
 organization: KnowDive
 notes: >-
   A service which helps the users to query and know about the different courses

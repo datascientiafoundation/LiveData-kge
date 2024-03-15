@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Urban Transportation
+title: 2022 - Trentino Urban Transportation
 organization: KnowDive
 notes: "The developed Knowledge Graph satisfies the following purpose:\r\n\r\n  “A person currently in an urban area of Trentino region wants to easily move from one place to another by means of public transportation.”\r\n\r\nFor this reason, the public transportation of urban areas of the region of Trentino (Italy) over a period of time of 10 months (between September 2022 and June 2023) has been considered."
 resources:

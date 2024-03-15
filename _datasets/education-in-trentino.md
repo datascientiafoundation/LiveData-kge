@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Education in Trentino
+title: 2022 - Education in Trentino
 organization: KnowDive
 notes: >-
   This project was developed by Samuele Bortolotti and Erich Robbi for the

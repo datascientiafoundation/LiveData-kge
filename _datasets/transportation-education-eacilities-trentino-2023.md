@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Transportation & Education Facilities
+title: 2023 - Trentino Transportation & Education Facilities
 organization: KnowDive
 notes: >-
   This project was developed by Thomas Pasquali and Riccardo Peiretti for the

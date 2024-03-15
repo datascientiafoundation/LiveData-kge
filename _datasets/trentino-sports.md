@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Sports
+title: 2022 - Trentino Sports
 organization: KnowDive
 notes: >-
   This is a GitHub page for the Knowledge Graph Engineering project for the Fall

@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Territory & Tourism Facilities
+title: 2023 - Trentino Territory & Tourism Facilities
 organization: KnowDive
 notes: >-
   This project was developed by Lucia Trillo and Marina Bueno García  for the

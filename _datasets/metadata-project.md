@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Metadata Project
+title: 2022 - Metadata Project
 organization: KnowDive
 notes: >-
   Our project context is an Open Data environment, where anyone is free to use,

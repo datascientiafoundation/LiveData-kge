@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Trentino Healthcare Connectivity
+title: 2022 - Trentino Healthcare Connectivity
 organization: KnowDive
 notes: >-
   The purpose of this project is to help patients and healthcare workers commute
