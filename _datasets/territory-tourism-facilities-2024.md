@@ -10,7 +10,7 @@ resources:
     format: html
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
-  -   Environment
+  -   Facilities
 maintainer: Simone Bocca
 maintainer_email: simone.bocca@unitn.it
 author: Stefano Sacchet <br> Lorenzo Dongili <br> Giulia Grotto
